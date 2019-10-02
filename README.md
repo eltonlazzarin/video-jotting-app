@@ -11,14 +11,14 @@
 
 # Development environment
 
-To excute all projects below, you have to install [Node.js](https://nodejs.org) enviroment and an editor, like [Visual Studio Code](https://code.visualstudio.com/).
+To excute this project, you must to install [Node.js](https://nodejs.org) enviroment and an editor, like [Visual Studio Code](https://code.visualstudio.com/).
 
 
 # Usage
 
 # Starting the API project
 
-After cloning this project to your computer, install all dependencies needed to backend, frontend and RocketBox mobile app (separately), typing in your terminal like below.
+After cloning this project to your computer, install all dependencies needed, typing in your terminal like below.
 
 ```sh
 $ video-jotting-app
