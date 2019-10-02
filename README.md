@@ -16,7 +16,7 @@ To excute this project, you must to install [Node.js](https://nodejs.org) enviro
 
 # Usage
 
-# Starting the API project
+# Starting the project
 
 After cloning this project to your computer, install all dependencies needed, typing in your terminal like below.
 
