@@ -21,7 +21,7 @@ To excute this project, you must to install [Node.js](https://nodejs.org) enviro
 After cloning this project to your computer, install all dependencies needed, typing in your terminal like below.
 
 ```sh
-$ video-jotting-app
+$ cd video-jotting-app
 $ npm i
 ```
 
